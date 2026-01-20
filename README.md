@@ -5,6 +5,22 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-managed%20automatically-success)
 ![Runs Anywhere](https://img.shields.io/badge/runs%20anywhere-yes-brightgreen)
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 A clean, modern, single-file Python script template that:
 
 - Automatically detects and prompts to install missing dependencies (`requests`, `tomli`, `rich`, `rich-argparse`)
